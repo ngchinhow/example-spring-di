@@ -56,3 +56,6 @@ replay_pid*
 
 ### Maven ###
 .mvn/*
+
+### work ###
+recordings/*

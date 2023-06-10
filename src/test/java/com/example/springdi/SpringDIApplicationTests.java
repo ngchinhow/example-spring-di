@@ -1,10 +1,10 @@
-package com.example.springioc;
+package com.example.springdi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringIocApplicationTests {
+class SpringDIApplicationTests {
 
 	@Test
 	void contextLoads() {

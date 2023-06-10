@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>spring-ioc</artifactId>
+	<artifactId>spring-di</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-ioc</name>
-	<description>spring-ioc</description>
+	<name>spring-di</name>
+	<description>spring-di</description>
 	<properties>
 		<java.version>20</java.version>
 	</properties>
